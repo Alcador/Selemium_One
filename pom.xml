@@ -27,7 +27,7 @@
         <threads>1</threads>
         <browser>chrome</browser>
         <overwrite.binaries>false</overwrite.binaries>
-        <headless>true</headless>
+        <headless>false</headless>
     </properties>
     <build>
         <plugins>
